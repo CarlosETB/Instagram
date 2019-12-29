@@ -17,15 +17,14 @@ ou
     ~/Android/Sdk/platform-tools/adb reverse tcp:3000 tcp:3000
 ```
 
-
+<br />
 
 <!-- PROJECT LOGO -->
 
 <p align="center">
-    ![Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="Logo">
 </p>
 
-<br />
 
 
 
