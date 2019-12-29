@@ -17,4 +17,4 @@ ou
     ~/Android/Sdk/platform-tools/adb reverse tcp:3000 tcp:3000
 ```
 
-![Logo](src/assets/Logotype.png)
+![Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png)
